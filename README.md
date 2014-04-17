@@ -6,7 +6,7 @@ Supports:
 - LESS
 - SCSS
 
-With the `.ctags` configuration:
+With the `~/.ctags` configuration:
 
 ```
 --langdef=css
