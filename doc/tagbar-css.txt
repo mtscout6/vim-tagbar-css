@@ -1,0 +1,24 @@
+tagbar-css.txt    Display tags of css, less, and scss files
+
+Author:   Matt Smith <mtscout6@gmail.com>
+License:  Vim license, see license
+Homepage: https://github.com/mtscout6/vim-tagbar-css
+Version:  1.0.0
+
+==============================================================================
+Contents                                    *tagbar-css* *tagbar-css-contents*
+
+         1. Intro ........................... |tagbar-css-intro|
+         2. Requirements .................... |tagbar-css-requirements|
+
+==============================================================================
+1. Intro                                                    *tagbar-css-intro*
+
+Tagbar-css is an extension on tagbar to provide support for css, less, and
+scss files.
+
+==============================================================================
+2. Requirements                                      *tagbar-css-requirements*
+
+https://github.com/majutsushi/tagbar vim plugin enabled
+
